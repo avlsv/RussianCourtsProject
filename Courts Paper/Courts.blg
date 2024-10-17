@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Courts.aux
+The style file: econ.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--there's a number but no volume in Koroleva2021
+You've used 24 entries,
+            6826 wiz_defined-function locations,
+            1498 strings with 15670 characters,
+and the built_in function-call counts, 33147 in all, are:
+= -- 5426
+> -- 1519
+< -- 66
++ -- 512
+- -- 565
+* -- 2028
+:= -- 4391
+add.period$ -- 24
+call.type$ -- 24
+change.case$ -- 207
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 796
+empty$ -- 1430
+format.name$ -- 494
+if$ -- 8681
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 85
+num.names$ -- 242
+pop$ -- 295
+preamble$ -- 1
+purify$ -- 207
+quote$ -- 0
+skip$ -- 2422
+stack$ -- 0
+substring$ -- 2444
+swap$ -- 168
+text.length$ -- 66
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 400
+warning$ -- 1
+while$ -- 208
+width$ -- 0
+write$ -- 396
+(There was 1 warning)

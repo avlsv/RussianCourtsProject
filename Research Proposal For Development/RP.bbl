@@ -1,0 +1,73 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  This bbl file is created by econ.bst ver.3.1.1
+%  The latest econ.bst is available at
+%  <https://github.com/ShiroTakeda/econ-bst>
+
+%%% Definition of \bysame
+\ifx\undefined\bysame
+\newcommand{\bysame}{\hskip.3em \leavevmode\rule[.5ex]{3em}{.3pt}\hskip0.5em}
+\fi
+
+\begin{thebibliography}{xxx}
+
+\harvarditem[Acemoglu et~al.]{Acemoglu, Johnson and
+  Robinson}{2001}{Acemoglu2001}
+Acemoglu, Daron, Simon Johnson, and James~A. Robinson (2001) ``The Colonial
+  Origins of Comparative Development: An Empirical Investigation,''
+  \textit{American Economic Review}, 91 (5),  1369--1401,
+  \href{http://dx.doi.org/10.1257/aer.91.5.1369}{\urlstyle{rm}
+  \nolinkurl{10.1257/aer.91.5.1369}}.
+
+\harvarditem[{Amnesty International}]{{Amnesty
+  International}}{2008}{Amnesty2008}
+{Amnesty International} (2008) ``Russian Federation: Freedom limited – the
+  right to freedom of expression in the Russian Federation,''
+  \url{https://www.amnesty.org/en/documents/eur46/008/2008/en/}.
+
+\harvarditem[Mcmillan and Zoido]{Mcmillan and Zoido}{2004}{Mcmillan2004}
+Mcmillan, John and Pablo Zoido (2004) ``How to Subvert Democracy: Montesinos in
+  Peru,'' \textit{Journal of Economic Perspectives}, 18 (4),  69--92,
+  \href{http://dx.doi.org/10.1257/0895330042632690}{\urlstyle{rm}
+  \nolinkurl{10.1257/0895330042632690}}.
+
+\harvarditem[Mehmood]{Mehmood}{2022}{Mehmood2022}
+Mehmood, Sultan (2022) ``The Impact of Presidential Appointment of Judges:
+  Montesquieu or the Federalists?'' \textit{American Economic Journal: Applied
+  Economics}, 14 (4),  411--45,
+  \href{http://dx.doi.org/10.1257/app.20210176}{\urlstyle{rm}
+  \nolinkurl{10.1257/app.20210176}}.
+
+\harvarditem[North]{North}{1990}{North1990}
+North, D.C. (1990)  \textit{Institutions, Institutional Change and Economic
+  Performance}, Institutions, Institutional Change, and Economic Performance:
+  Cambridge University Press,
+  \url{https://books.google.ru/books?id=oFnWbTqgNPYC}.
+
+\harvarditem[Porta et~al.]{Porta, López‐de‐Silanes, Pop‐Eleches and
+  Shleifer}{2004}{LaPorta2004}
+Porta, Rafael~La, Florencio López‐de‐Silanes, Cristian Pop‐Eleches, and
+  Andrei Shleifer (2004) ``Judicial Checks and Balances,'' \textit{Journal of
+  Political Economy}, 112 (2),  445--470,
+  \url{http://www.jstor.org/stable/10.1086/381480}.
+
+\harvarditem[Rodrik et~al.]{Rodrik, Subramanian and Trebbi}{2004}{Rodrik2004}
+Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi (2004) ``Institutions
+  Rule: The Primacy of Institutions over Geography and Integration in Economic
+  Development,'' \textit{Journal of Economic Growth}, 9 (2),  131--165,
+  \url{http://www.jstor.org/stable/40212696}.
+
+\harvarditem[Valerievna]{Valerievna}{2017}{Makarova2017}
+Valerievna, Makarova~Oksana (2017) ``The Institute of Court Presidents as an
+  element of organizing the activities of courts of general jurisdiction (In
+  Russian),'' \textit{Journal of Russian Law} (6 (246)),  168--176,
+  \href{http://dx.doi.org/10.1257/0895330042632690}{\urlstyle{rm}
+  \nolinkurl{10.1257/0895330042632690}}.
+
+\harvarditem[Yakovlev]{Yakovlev}{2018}{Yakovlev2018}
+Yakovlev, Evgeny (2018) ``Demand for Alcohol Consumption in Russia and Its
+  Implication for Mortality,'' \textit{American Economic Journal: Applied
+  Economics}, 10 (1),  106--49,
+  \href{http://dx.doi.org/10.1257/app.20130170}{\urlstyle{rm}
+  \nolinkurl{10.1257/app.20130170}}.
+
+\end{thebibliography}

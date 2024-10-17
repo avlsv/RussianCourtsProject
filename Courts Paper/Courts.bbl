@@ -1,0 +1,168 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  This bbl file is created by econ.bst ver.3.1.1
+%  The latest econ.bst is available at
+%  <https://github.com/ShiroTakeda/econ-bst>
+
+%%% Definition of \bysame
+\ifx\undefined\bysame
+\newcommand{\bysame}{\hskip.3em \leavevmode\rule[.5ex]{3em}{.3pt}\hskip0.5em}
+\fi
+
+\begin{thebibliography}{xxx}
+
+\harvarditem[Acemoglu et~al.]{Acemoglu, Johnson and
+  Robinson}{2001}{Acemoglu2001}
+Acemoglu, Daron, Simon Johnson, and James~A. Robinson (2001) ``The Colonial
+  Origins of Comparative Development: An Empirical Investigation,''
+  \textit{American Economic Review}, 91 (5),  1369--1401,
+  \href{http://dx.doi.org/10.1257/aer.91.5.1369}{\urlstyle{rm}
+  \nolinkurl{10.1257/aer.91.5.1369}}.
+
+\harvarditem[Alesina and La~Ferrara]{Alesina and La~Ferrara}{2014}{Alesina2014}
+Alesina, Alberto and Eliana La~Ferrara (2014) ``A Test of Racial Bias in
+  Capital Sentencing,'' \textit{American Economic Review}, 104 (11),
+  3397--3433, \href{http://dx.doi.org/10.1257/aer.104.11.3397}{\urlstyle{rm}
+  \nolinkurl{10.1257/aer.104.11.3397}}.
+
+\harvarditem[Cameron et~al.]{Cameron, Gelbach and Miller}{2011}{Cameron2011}
+Cameron, A.~Colin, Jonah~B. Gelbach, and Douglas~L. Miller (2011) ``Robust
+  Inference With Multiway Clustering,'' \textit{Journal of Business \& Economic
+  Statistics}, 29 (2),  238--249, \url{http://www.jstor.org/stable/25800796}.
+
+\harvarditem[Croissant and Millo]{Croissant and Millo}{2008}{plm}
+Croissant, Yves and Giovanni Millo (2008) ``Panel Data Econometrics in {R}: The
+  {plm} Package,'' \textit{Journal of Statistical Software}, 27 (2),  1--43,
+  \href{http://dx.doi.org/10.18637/jss.v027.i02}{\urlstyle{rm}
+  \nolinkurl{10.18637/jss.v027.i02}}.
+
+\harvarditem[Djankov et~al.]{Djankov, La~Porta, Lopez-de Silanes and
+  Shleifer}{2003}{Djankov2003}
+Djankov, Simeon, Rafael La~Porta, Florencio Lopez-de Silanes, and Andrei
+  Shleifer (2003) ``{Courts},'' \textit{The Quarterly Journal of Economics},
+  118 (2),  453--517,
+  \href{http://dx.doi.org/10.1162/003355303321675437}{\urlstyle{rm}
+  \nolinkurl{10.1162/003355303321675437}}.
+
+\harvarditem[Galkina et~al.]{Galkina, Machushkina and
+  Shumova}{2019}{Galkina2019}
+Galkina, Elizaveta~A., Irina~M. Machushkina, and Kristina~A. Shumova (2019)
+  ``Dependence of Judges on Chairmen of the Courts,'' \textit{Bulletin of
+  Science and Practice}, 5 (5),  413–416,
+  \href{http://dx.doi.org/10.33619/2414-2948/42/58}{\urlstyle{rm}
+  \nolinkurl{10.33619/2414-2948/42/58}}, (In Russian).
+
+\harvarditem[Guriev and Treisman]{Guriev and
+  Treisman}{2020}{GurievTreisman2020}
+Guriev, Sergei and Daniel Treisman (2020) ``A Theory of Informational
+  Autocracy,'' \textit{Journal of Public Economics}, 186,  104158,
+  \href{http://dx.doi.org/https://doi.org/10.1016/j.jpubeco.2020.104158}{\urlstyle{rm}
+  \nolinkurl{https://doi.org/10.1016/j.jpubeco.2020.104158}}.
+
+\harvarditem[Guriev and Treisman]{Guriev and
+  Treisman}{2022}{GurievTreisman2022}
+\bysame  (2022)  \textit{Spin Dictators: The Changing Face of Tyranny in the
+  21st Century}: Princeton University Press,
+  \url{http://www.jstor.org/stable/j.ctv1xp9p7d}.
+
+\harvarditem[Hlavac]{Hlavac}{2022}{Stargazer}
+Hlavac, Marek (2022)  \textit{stargazer: Well-Formatted Regression and Summary
+  Statistics Tables}, Social Policy Institute, Bratislava, Slovakia,
+  \url{https://CRAN.R-project.org/package=stargazer}, R package version 5.2.3.
+
+\harvarditem[Koroleva]{Koroleva}{2021}{Koroleva2021}
+Koroleva, Elena~V. (2021) ``Guarantees of the Independece of jJudges from the
+  Chairman of the Court,'' \textit{Law and Justice} (7),  179--181,
+  \href{http://dx.doi.org/10.24412/2073-3313-2021-7-179-181}{\urlstyle{rm}
+  \nolinkurl{10.24412/2073-3313-2021-7-179-181}}, (In Russian).
+
+\harvarditem[La~Porta et~al.]{La~Porta, Lopez-de Silanes and
+  Shleifer}{2008}{LaPorta2008}
+La~Porta, Rafael, Florencio Lopez-de Silanes, and Andrei Shleifer (2008) ``The
+  Economic Consequences of Legal Origins,'' \textit{Journal of Economic
+  Literature}, 46 (2),  285--332,
+  \href{http://dx.doi.org/10.1257/jel.46.2.285}{\urlstyle{rm}
+  \nolinkurl{10.1257/jel.46.2.285}}.
+
+\harvarditem[Luraschi et~al.]{Luraschi et~al.}{2023}{sparklyr}
+Luraschi, Javier, Kevin Kuo, Kevin Ushey et~al. (2023)  \textit{sparklyr: R
+  Interface to Apache Spark}, \url{https://spark.rstudio.com/}, R package
+  version 1.8.3.9001.
+
+\harvarditem[Makarova]{Makarova}{2017}{Makarova2017}
+Makarova, {Oksana V.} (2017) ``The Institute of Court Presidents as an element
+  of organizing the activities of courts of general jurisdiction,''
+  \textit{Journal of Russian Law}, 6 (246),  168--176,
+  \href{http://dx.doi.org/10.12737/article_59240c62cb60a4.84688849}{\urlstyle{rm}
+  \nolinkurl{10.12737/article_59240c62cb60a4.84688849}}, (In Russian).
+
+\harvarditem[Mcmillan and Zoido]{Mcmillan and Zoido}{2004}{Mcmillan2004}
+Mcmillan, John and Pablo Zoido (2004) ``How to Subvert Democracy: Montesinos in
+  Peru,'' \textit{Journal of Economic Perspectives}, 18 (4),  69--92,
+  \href{http://dx.doi.org/10.1257/0895330042632690}{\urlstyle{rm}
+  \nolinkurl{10.1257/0895330042632690}}.
+
+\harvarditem[Mehmood]{Mehmood}{2022}{Mehmood2022}
+Mehmood, Sultan (2022) ``The Impact of Presidential Appointment of Judges:
+  Montesquieu or the Federalists?'' \textit{American Economic Journal: Applied
+  Economics}, 14 (4),  411--45,
+  \href{http://dx.doi.org/10.1257/app.20210176}{\urlstyle{rm}
+  \nolinkurl{10.1257/app.20210176}}.
+
+\harvarditem[Mehmood and Seror]{Mehmood and Seror}{2023}{Mehmood2023}
+Mehmood, Sultan and Avner Seror (2023) ``{Religious leaders and rule of law},''
+  \textit{Journal of Development Economics}, 160 (C),
+  \href{http://dx.doi.org/10.1016/j.jdeveco.2022.10}{\urlstyle{rm}
+  \nolinkurl{10.1016/j.jdeveco.2022.10}}.
+
+\harvarditem[North]{North}{1990}{North1990}
+North, D.C. (1990)  \textit{Institutions, Institutional Change and Economic
+  Performance}, Institutions, Institutional Change, and Economic Performance:
+  Cambridge University Press,
+  \url{https://books.google.ru/books?id=oFnWbTqgNPYC}.
+
+\harvarditem[Porta et~al.]{Porta, López‐de‐Silanes, Pop‐Eleches and
+  Shleifer}{2004}{LaPorta2004}
+Porta, Rafael~La, Florencio López‐de‐Silanes, Cristian Pop‐Eleches, and
+  Andrei Shleifer (2004) ``Judicial Checks and Balances,'' \textit{Journal of
+  Political Economy}, 112 (2),  445--470,
+  \url{http://www.jstor.org/stable/10.1086/381480}.
+
+\harvarditem[{R Core Team}]{{R Core Team}}{2023}{R}
+{R Core Team} (2023)  \textit{R: A Language and Environment for Statistical
+  Computing}, R Foundation for Statistical Computing, Vienna, Austria,
+  \url{https://www.R-project.org/}.
+
+\harvarditem[Rodrik et~al.]{Rodrik, Subramanian and Trebbi}{2004}{Rodrik2004}
+Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi (2004) ``Institutions
+  Rule: The Primacy of Institutions over Geography and Integration in Economic
+  Development,'' \textit{Journal of Economic Growth}, 9 (2),  131--165,
+  \url{http://www.jstor.org/stable/40212696}.
+
+\harvarditem[Thompson]{Thompson}{2011}{Thompson2011}
+Thompson, Samuel~B. (2011) ``Simple formulas for standard errors that cluster
+  by both firm and time,'' \textit{Journal of Financial Economics}, 99 (1),
+  1--10,
+  \href{http://dx.doi.org/https://doi.org/10.1016/j.jfineco.2010.08.016}{\urlstyle{rm}
+  \nolinkurl{https://doi.org/10.1016/j.jfineco.2010.08.016}}.
+
+\harvarditem[Wickham et~al.]{Wickham et~al.}{2019}{tidyverse}
+Wickham, Hadley, Mara Averick, Jennifer Bryan et~al. (2019) ``Welcome to the
+  {tidyverse},'' \textit{Journal of Open Source Software}, 4 (43),  1686,
+  \href{http://dx.doi.org/10.21105/joss.01686}{\urlstyle{rm}
+  \nolinkurl{10.21105/joss.01686}}.
+
+\harvarditem[Zaharia et~al.]{Zaharia et~al.}{2016}{Spark}
+Zaharia, Matei, Reynold~S. Xin, Patrick Wendell et~al. (2016) ``{Apache Spark}:
+  A Unified Engine for Big Data Processing,'' \textit{Communications of the
+  ACM}, 59 (11),  56--65,
+  \href{http://dx.doi.org/10.1145/2934664}{\urlstyle{rm}
+  \nolinkurl{10.1145/2934664}}.
+
+\harvarditem[Zholobov]{Zholobov}{2022}{Zholobov2022}
+Zholobov, {Yaroslav V.} (2022) ``The Powers of Presidents of General
+  Jurisdiction Courts in the Russian Federation: Classification Issues,''
+  \textit{Vestnik of Saint Petersburg University. Law}, 4,  860--876,
+  \href{http://dx.doi.org/10.21638/spbu14.2022.402}{\urlstyle{rm}
+  \nolinkurl{10.21638/spbu14.2022.402}}.
+
+\end{thebibliography}

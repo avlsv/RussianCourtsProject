@@ -1,0 +1,47 @@
+\documentclass[a4paper,12pt]{article}
+\input{./../../misc/_preambleeng.tex}
+\author{Alexander Vlasov}
+\title{RP: Measuring Influence of Executive \\ Power on the Judiciary}
+\def\topic{Development}
+\def\extratext{\DTMcurrenttime~\DTMtoday  / \DTMdate{2023-10-05}}
+\numberwithin{equation}{problem}
+
+
+\begin{document}
+\maketitle 
+
+% an introduction, a literature review, a discussion of research methodology and goals, and a conclusion
+
+% Executive control over the judicial power.
+
+This work is focused on the exploration of degree of executive control over the judicial power in Russian Federation.
+Construction of a rich dataset of criminal proceedings in Russia\footnote{For some of the regions data is not available. Particularly, currently it is not possible to obtain data from any of the annexed regions and Chechnya.} over the last 15 years allows us to examine the large portion of a career of a given judge. 
+And I plan to use this to find the distribution and measure the concentration of potentially politically motivated sentences,\footnote{For example, those that fall under Article 212.1: ``repeated violation of the established procedure for organizing or holding a meeting, meeting, demonstration, procession or picketing'', which was widely criticized by human rights activists \citep{Amnesty2008}.} which, combined with the data on the overall load on other judges suggests the favoritism in political cases assignment. 
+That is, the share in politically motivated cases assigned to a judge conditionally on its share in the overall cases assigned is a proposed measure of the influence of executive branch of power on judiciary.
+
+
+
+In the context of Russia the proposed mechanism of influence of the bureaucrats/securocrats goes through the influence of a chairman of the court. 
+The chairman participates in the process of hiring of a judge\footnote{Anecdotally, a negative review by the chairman of the court guarantees a negative decision of the qualification commission on accepting the candidate to the position of judge \citep{Makarova2017}.}, and, most importantly, able to assign a particular cases to any judge in the court they preside over. 
+The chairmen of courts of general jurisdiction themselves are assigned by the president of Russian Federation upon the recommendation of the Supreme Court, what gives the president (and thus executive power) high level of control over the judicial power.
+
+
+The degree of executive branch control over the judges cannot be directly observed.\footnote{Except in special circumstances as in \citet{Mcmillan2004}.} 
+In this work I propose the indirect approach of measuring this degree.
+The indirect approach was also used in \citet{Mehmood2022} which uses the variation in judicial appointment (the change from presidential appointment of judges to appointment by peer judges) to identify the causal effect of reduction in executive power influence. 
+Only a few studies have been investigating the judiciary in autocratic and weak democratic countries. 
+My work improves on this literature by providing an easy to quantify measure of influence of executive power influence on courts.
+This work also relates to the broader topic of the importance of the courts as checks and balances to the executive powers such as \citet{North1990,Acemoglu2001, LaPorta2004,Rodrik2004}. 
+
+
+
+
+Panel setting of the data combined with large number of regions allows for investigations of influences of different treatments on courts' decisions in the difference-in-difference settings. 
+If it would be possible to find the treatment that changes the behavior of the courts it would be possible make a causal statements about the treatment's influence on courts decisions, but I'm still in search of those.
+Another possible extension that stems from the panel setting, but departs from the main topic, can be the assessment of the effect alcohol consumption in Russia on the alcohol-related crimes with identification that follows from the kink in the policy regime of the excise tax on alcohol, what is the instrument used in \citet{Yakovlev2018}.
+
+
+At this point, I've collected the data for 24 out of 82 regions. Next week the rest of the regions will be collected, so the exploration of this big dataset can begin as soon as possible. It would be great if NES could host the database on their services because it seems that many more researchers can participate in the exploration, particularly those with skills in text analysis, since there is a lot of additional information that can be extracted.
+
+\references
+\end{document}
